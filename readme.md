@@ -35,11 +35,12 @@ After modifying the input files, inside your preferred terminal window run any o
 
 ###### Day 1
 ```bash
-php DayOne/calories.php
+php DayOne/rock.php
 ```
 
 # Benchmarks
 
-|                       Day                       |                     PHP                     |
-|:-----------------------------------------------:|:-------------------------------------------:|
-|  [DayOne - calories.php](DayOne/calories.php)   |   Lowest: `0.380ms`  Highest: `0.6680ms`    |
+|                     Day                      |                  PHP                   |
+|:--------------------------------------------:|:--------------------------------------:|
+| [DayOne - calories.php](DayOne/calories.php) | Lowest: `0.380ms`  Highest: `0.6680ms` |
+|     [DayTwo - rock.php](DayTwo/rock.php)     | Lowest: `0.474ms`  Highest: `0.795ms`  |
