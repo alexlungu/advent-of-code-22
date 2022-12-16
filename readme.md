@@ -35,12 +35,13 @@ After modifying the input files, inside your preferred terminal window run any o
 
 ###### Day 1
 ```bash
-php DayOne/rock.php
+php DayOne/rucksack.php
 ```
 
 # Benchmarks
 
-|                     Day                      |                  PHP                   |
-|:--------------------------------------------:|:--------------------------------------:|
-| [DayOne - calories.php](DayOne/calories.php) | Lowest: `0.380ms`  Highest: `0.6680ms` |
-|     [DayTwo - rock.php](DayTwo/rock.php)     | Lowest: `0.474ms`  Highest: `0.795ms`  |
+|                       Day                        |                  PHP                   |
+|:------------------------------------------------:|:--------------------------------------:|
+|   [DayOne - calories.php](DayOne/calories.php)   | Lowest: `0.380ms`  Highest: `0.6680ms` |
+|       [DayTwo - rock.php](DayTwo/rock.php)       | Lowest: `0.474ms`  Highest: `0.795ms`  |
+| [DayThree - rucksack.php](DayThree/rucksack.php) | Lowest: `2.469ms`  Highest: `2.625ms`  |
