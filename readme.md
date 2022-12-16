@@ -35,7 +35,15 @@ After modifying the input files, inside your preferred terminal window run any o
 
 ###### Day 1
 ```bash
-php DayOne/rucksack.php
+php DayOne/calories.php
+```
+###### Day 2
+```bash
+php DayTwo/rock.php
+```
+###### Day 3
+```bash
+php DayThree/rucksack.php
 ```
 
 # Benchmarks
